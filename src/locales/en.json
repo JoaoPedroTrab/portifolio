@@ -1,0 +1,32 @@
+{
+  "nav.home": "Home",
+  "nav.projects": "Projects",
+  "nav.skills": "Skills",
+  "nav.contact": "Contact",
+  
+  "home.title": "João Pedro Trabachini Abrantes",
+  "home.subtitle": "Junior Full-Stack Developer",
+  "home.description": "Passionate about creating efficient, scalable, and user-friendly web applications.",
+  "home.viewProjects": "View Projects",
+  "home.viewSkills": "View Skills",
+  
+  "projects.title": "Projects",
+  "projects.project1.title": "LC Manager",
+  "projects.project1.description": "Project management tool built with TypeScript and SQL for task tracking and organization.",
+  "projects.project2.title": "GE Vuturaty",
+  "projects.project2.description": "Scouting web platform built with React and Node.js, offering features for content management and user interaction.",
+  "projects.project3.title": "Estoque GX",
+  "projects.project3.description": "Inventory management web application developed for Sorocaba city hall using React",
+
+  "skills.title": "My Skills",
+  
+  "contact.title": "Get in Touch",
+  "contact.name": "Name",
+  "contact.email": "Email",
+  "contact.message": "Message",
+  "contact.send": "Send Message",
+  "contact.success": "Message sent successfully!",
+  "contact.error": "An error occurred. Please try again.",
+  
+  "footer.copyright": "© {year} João Pedro Trabachini Abrantes. All rights reserved."
+}
